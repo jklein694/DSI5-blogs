@@ -9,7 +9,7 @@ To submit, add your link to the table below:
 | Week 1        | `null` (do not edit)			|
 | Week 2        | `null` (do not edit)			|
 | Week 3        | https://medium.com/@jklein694/know-your-states-craft-beers-a237e40fbee9
-| Week 4        | **link**      				|
+| Week 4        | https://medium.com/@jklein694/neural-networks-part-1-a-simple-proof-of-the-universal-approximation-theorem-b7864964dbd3      				|
 | Week 5        | **link**      				|
 | Week 6        | **link**						|
 | Week 7        | **link**						|	
