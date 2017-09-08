@@ -13,7 +13,7 @@ To submit, add your link to the table below:
 | Week 5        | https://medium.com/towards-data-science/neural-networks-part-2-implementing-a-neural-network-function-in-python-using-keras-1ba80aba03df     				|
 | Week 6        | https://medium.com/@jklein694/intro-to-imports-253fc0fe7e8e						|
 | Week 7        | https://medium.com/@jklein694/ensemble-methods-brief-introduction-dbb71e7ee2d2						|	
-| Week 8        | https://medium.com/@jklein694/ensemble-methods-brief-introduction-dbb71e7ee2d2						|
+| Week 8        | https://medium.com/@jklein694/ensemble-methods-boosting-be4fd93fdc6f						|
 | Week 9        | https://medium.com/@jklein694/ensemble-methods-bagging-5eeebcaa0837						|
 | Week 10       | https://medium.com/@jklein694/decision-trees-8aa758c9f3ef						|
 | Week 11       | https://medium.com/@jklein694/exploratory-data-analysis-eda-b666f354eaa8						|
