@@ -17,7 +17,7 @@ To submit, add your link to the table below:
 | Week 9        | https://medium.com/@jklein694/ensemble-methods-bagging-5eeebcaa0837						|
 | Week 10       | https://medium.com/@jklein694/decision-trees-8aa758c9f3ef						|
 | Week 11       | https://medium.com/@jklein694/exploratory-data-analysis-eda-b666f354eaa8						|
-| Week 12       | **link**						|
+| Week 12       | https://medium.com/@jklein694/deep-dive-in-recurrent-neural-networks-for-binary-classification-project-cd15d89694da						|
 
 If you have already written a blog post for week 2, simply make it be your week 3 blog post. Treat the week columns like slots, not explicit dates. **Every week (slot) should have a link except for weeks 1 and 2.**
 
